@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{4FAA534C-8117-6345-B54A-980722458A13}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PointCounter.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="19" Column="71" />
+      <File FileName="Assets/Scripts/TouchController.cs" Line="23" Column="45" />
+      <File FileName="Assets/Scripts/FallingBox.cs" Line="26" Column="42" />
+      <File FileName="Assets/Scripts/PointCounter.cs" Line="29" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MobileGame" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="PointCounter.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0c5aba15-f803-4a56-bb07-58a862d325e3" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
